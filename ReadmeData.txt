@@ -75,8 +75,9 @@ Click the **Download Project** button in Builder.io to get the complete source c
 
 🔐 Default Settings
 
-    Admin Password: numerology2024
-    WhatsApp Number: 9742511764 (editable)
+    Admin Password: 
+    WhatsApp Number: 9742511764 (    <<<<<<< HEAD
+    
     AdSense ID: ca-pub-6683668028356246
 
 📞 How Appointments Work
