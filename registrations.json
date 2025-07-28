@@ -1,0 +1,38 @@
+[
+  {
+    "id": "REG_1753709282102_5tozquy64",
+    "fullName": "Satish",
+    "email": "gitsatish@gmail.com",
+    "phone": "9742511764",
+    "dateOfBirth": "1988-07-23",
+    "timeOfBirth": "13:40",
+    "placeOfBirth": "belgaum",
+    "service": "name-numerology",
+    "additionalNotes": "What issue you are facing",
+    "submittedAt": "2025-07-28T13:28:02.081Z"
+  },
+  {
+    "id": "REG_1753709383899_n7gkunarb",
+    "fullName": "asd",
+    "email": "saaad@asd.com",
+    "phone": "asd",
+    "dateOfBirth": "0123-03-21",
+    "timeOfBirth": "12:32",
+    "placeOfBirth": "12312",
+    "service": "name-numerology",
+    "additionalNotes": "12312",
+    "submittedAt": "2025-07-28T13:29:43.897Z"
+  },
+  {
+    "id": "REG_1753709425430_bkv141x9m",
+    "fullName": "dasda",
+    "email": "saaad@asd.com",
+    "phone": "9742511764",
+    "dateOfBirth": "1988-07-23",
+    "timeOfBirth": "13:40",
+    "placeOfBirth": "belgaum",
+    "service": "name-numerology",
+    "additionalNotes": "queries",
+    "submittedAt": "2025-07-28T13:30:25.424Z"
+  }
+]
