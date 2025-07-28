@@ -4,7 +4,7 @@ import { Toaster } from "@/components/ui/toaster";
 import { createRoot } from "react-dom/client";
 import { Toaster as Sonner } from "@/components/ui/sonner";
 import { TooltipProvider } from "@/components/ui/tooltip";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import Index from "./pages/Index";
 import RegisterAppointment from "./pages/RegisterAppointment";
 import AdminSettings from "./pages/AdminSettings";
@@ -16,7 +16,7 @@ const App = () => (
     <Toaster />
     <Sonner />
     <AdSenseLoader />
-    <BrowserRouter>
+    <Router>
       <Routes>
         <Route path="/" element={<Index />} />
         <Route path="/register" element={<RegisterAppointment />} />
@@ -24,7 +24,7 @@ const App = () => (
         {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
         <Route path="*" element={<NotFound />} />
       </Routes>
-    </BrowserRouter>
+    </Router>
   </TooltipProvider>
 );
 
